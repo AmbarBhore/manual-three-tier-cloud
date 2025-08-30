@@ -1,0 +1,11 @@
+com/ambar/rmm/repository/TenantRepository.class
+com/ambar/rmm/service/TenantService.class
+com/ambar/rmm/RmmApplication.class
+com/yourapp/config/WebConfig.class
+com/ambar/rmm/controller/AgentController.class
+com/ambar/rmm/service/AgentService.class
+com/ambar/rmm/repository/AgentRepository.class
+com/ambar/rmm/model/Agent.class
+com/yourapp/config/WebConfig$1.class
+com/ambar/rmm/controller/TenantController.class
+com/ambar/rmm/model/Tenant.class

@@ -1,0 +1,10 @@
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/WebConfig.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/controller/AgentController.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/RmmApplication.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/service/AgentService.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/controller/TenantController.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/repository/TenantRepository.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/service/TenantService.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/model/Agent.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/model/Tenant.java
+/home/ubuntu/manual-three-tier-aws-based-application/Manual-Three-Tier-Application/backend/src/main/java/com/ambar/rmm/repository/AgentRepository.java
